@@ -1,5 +1,5 @@
 # Desarrollo-Web-con-Spring-Boot
-Curso selccionado: Curso Completo de Desarrollo Web con Spring Boot- Equipo "PROGRAMANDING"
+Curso seleccionado: Curso Completo de Desarrollo Web con Spring Boot- Equipo "PROGRAMANDING"
 Intrucciones:
 --Descargar el primer Proyecto: "CursoSpring"--
 1.- Cerciorarse de que este seleccionado el branch: master.
